@@ -91,12 +91,14 @@ h3 {
   font-size: medium;
 }
 
+/* updated 5-5-22 */
 .bg-primary {
-  background-color: #272612 !important;
+  background-color: #304A28 !important;
 }
 
+/* updated 5-5-22 */
 .bg-dark {
-  background-color: #1F282F !important;
+  background-color: #0F293E !important;
 }
 
 .text-faded {
