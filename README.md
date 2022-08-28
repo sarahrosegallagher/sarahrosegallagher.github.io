@@ -1,3 +1,3 @@
 
-# [Personal Website and Portfolio](sarahrosegallagher.github.io)
+# [Personal Website and Portfolio](https://sarahrosegallagher.github.io)
 
