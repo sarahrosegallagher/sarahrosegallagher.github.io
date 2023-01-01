@@ -72,6 +72,12 @@ a {
   transition: all 0.2s;
 }
 
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 a:hover {
   color: black;
   text-decoration: none;
